@@ -1,4 +1,4 @@
-# school-admissions-matchmaking-algo
+# Schol Admissions Matchmaking Algorithm
 
 This project builds upon a basic project, where a program was built to create and store students and high schools to be matched together using principles from the stable marriage problem (SMP). This version of the project also automates some of the more tedious aspects of the previous project, namely, manual student and school data entry and matching. 
 
